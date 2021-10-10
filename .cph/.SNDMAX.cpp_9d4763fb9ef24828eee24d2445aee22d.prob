@@ -1,0 +1,1 @@
+{"name":"Local: SNDMAX","url":"e:\\CoderISP\\codechef\\SNDMAX.cpp","tests":[{"id":1633172424081,"input":"3\n1 2 3\n10 15 5\n100 999 500","output":"2\n10\n500"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CoderISP\\codechef\\SNDMAX.cpp","group":"local","local":true}

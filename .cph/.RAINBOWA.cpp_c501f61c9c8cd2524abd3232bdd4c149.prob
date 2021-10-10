@@ -1,0 +1,1 @@
+{"name":"Local: RAINBOWA","url":"e:\\CoderISP\\codechef\\RAINBOWA.cpp","tests":[{"id":1633244856130,"input":"3\n19\n1 2 3 4 4 5 6 6 6 7 6 6 6 5 4 4 3 2 1\n14\n1 2 3 4 5 6 7 6 5 4 3 2 1 1\n13\n1 2 3 4 5 6 8 6 5 4 3 2 1","output":"yes\nno\nno"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CoderISP\\codechef\\RAINBOWA.cpp","group":"local","local":true}

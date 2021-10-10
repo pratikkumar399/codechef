@@ -1,0 +1,1 @@
+{"name":"Local: COPS","url":"e:\\CoderISP\\codechef\\COPS.cpp","tests":[{"id":1633267323594,"input":"3\n4 7 8\n12 52 56 8\n2 10 2\n21 75\n2 5 8\n10 51","output":"0\n18\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CoderISP\\codechef\\COPS.cpp","group":"local","local":true}

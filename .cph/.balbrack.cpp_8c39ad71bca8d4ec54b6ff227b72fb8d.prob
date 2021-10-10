@@ -1,0 +1,1 @@
+{"name":"Local: balbrack","url":"e:\\CoderISP\\codechef\\balbrack.cpp","tests":[{"id":1633891649633,"input":"2  \n2  \n()  \n4  \n)(((","output":"2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CoderISP\\codechef\\balbrack.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: TWOSTR","url":"e:\\CoderISP\\codechef\\TWOSTR.cpp","tests":[{"id":1633248966510,"input":"2\ns?or?\nsco??\nstor?\nsco??","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CoderISP\\codechef\\TWOSTR.cpp","group":"local","local":true}
