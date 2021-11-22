@@ -1,0 +1,1 @@
+{"name":"Local: GCDOfp","url":"e:\\CoderISP\\codechef\\GCDOfp.cpp","tests":[{"id":1637167964008,"input":"2\n2\n4 2\n2\n1 3","output":"4 26\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CoderISP\\codechef\\GCDOfp.cpp","group":"local","local":true}

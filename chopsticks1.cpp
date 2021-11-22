@@ -12,6 +12,7 @@ int main()
     {
         cin >> L[i];
     }
+    sort(L, L + n);
 
     for (int i = 0; i < n - 1;)
     {

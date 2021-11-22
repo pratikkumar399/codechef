@@ -1,6 +1,4 @@
-//brackets question
-
-
+//bracket question
 #include <bits/stdc++.h>
 using namespace std;
 int balbrack(string s)
@@ -19,12 +17,11 @@ int balbrack(string s)
         }
     }
 
-   
-    long long int sum ;
+    long long int sum;
 
-    sum = count1<count2 ? count1 : count2 ;
+    sum = count1 < count2 ? count1 : count2;
 
-    return 2*sum;
+    return 2 * sum;
 }
 
 int main()

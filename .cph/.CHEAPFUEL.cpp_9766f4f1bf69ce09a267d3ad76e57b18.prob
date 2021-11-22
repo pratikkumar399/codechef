@@ -1,0 +1,1 @@
+{"name":"Local: CHEAPFUEL","url":"e:\\CoderISP\\codechef\\CHEAPFUEL.cpp","tests":[{"id":1636279856937,"input":"3\n1 1 1 1 1\n2 1 2 1 2\n2 2 1 1 2","output":"SAME PRICE\nDIESEL\nSAME PRICE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CoderISP\\codechef\\CHEAPFUEL.cpp","group":"local","local":true}

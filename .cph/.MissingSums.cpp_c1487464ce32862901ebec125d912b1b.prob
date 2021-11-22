@@ -1,0 +1,1 @@
+{"name":"Local: MissingSums","url":"e:\\CoderISP\\codechef\\MissingSums.cpp","tests":[{"id":1637518351526,"input":"3\n1\n2\n3","output":"1\n1 5\n1 4 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CoderISP\\codechef\\MissingSums.cpp","group":"local","local":true}

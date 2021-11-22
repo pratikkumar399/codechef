@@ -2,6 +2,8 @@
     "files.associations": {
         "COMMIT_EDITMSG": "git-commit",
         "ostream": "cpp",
-        "iostream": "cpp"
-    }
+        "iostream": "cpp",
+        "*.tcc": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
 }

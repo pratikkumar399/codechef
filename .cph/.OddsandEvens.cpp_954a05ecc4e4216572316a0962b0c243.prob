@@ -1,0 +1,1 @@
+{"name":"Local: OddsandEvens","url":"e:\\CoderISP\\codechef\\OddsandEvens.cpp","tests":[{"id":1637511055515,"input":"2\n1 1\n1 2","output":"Bob\nAlice"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CoderISP\\codechef\\OddsandEvens.cpp","group":"local","local":true}
